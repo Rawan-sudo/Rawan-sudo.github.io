@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wegweiser zur HTW Saar - Rotenbühl</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Wegweiser zur HTW Saar - Rotenbühl</h1>
+        <ul>
+            <li><a href="#anfahrt">Anfahrt</a></li>
+            <li><a href="#gebäude">Gebäude</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#kontakt">Kontakt</a></li>
+            <li><a href="#campus">Über den Campus</a></li>
+            <li><a href="#mensaar">MenSaar</a></li>
+			<li><a href="#mensaar">MenSaar</a></li>
+			<li><a href="galerie.html">Galerie</a></li>
+        </ul>
+        <section id="anfahrt">
+            <h2>Anfahrt</h2>
+            <p>Die HTW Saar am Standort Rotenbühl ist leicht mit öffentlichen Verkehrsmitteln und dem Auto zu erreichen. Die genaue Adresse lautet: Waldhausweg 14, 66123 Saarbrücken.</p>
+        </section>
+        <section id="gebäude">
+            <h2>Gebäude</h2>
+            <p>Der Campus Rotenbühl umfasst mehrere Gebäude, darunter das Hauptgebäude, die Bibliothek und verschiedene Labore.</p>
+        </section>
+        <section id="services">
+            <h2>Services</h2>
+            <p>Am Campus Rotenbühl stehen den Studierenden zahlreiche Services zur Verfügung, darunter eine Mensa, ein Café und verschiedene Beratungsstellen.</p>
+        </section>
+        <section id="kontakt">
+            <h2>Kontakt</h2>
+            <p>Für weitere Informationen können Sie uns unter der Telefonnummer 0681 5867-0 oder per E-Mail an info@htwsaar.de erreichen.</p>
+        </section>
+        <section id="campus">
+            <h2>Über den Campus Rotenbühl</h2>
+            <p>Der HTW-Saar Campus Rotenbühl liegt idyllisch im Waldhausweg 14 in Saarbrücken. Mit modernen Lehr- und Forschungseinrichtungen bietet der Campus eine inspirierende Umgebung für Studierende. Die grüne Lage und die gut ausgestatteten Räumlichkeiten schaffen eine angenehme Lernatmosphäre.</p>
+            <p>Die HTW-Saar hat den Campus Rotenbühl mit besonderem Augenmerk auf Barrierefreiheit und Inklusion gestaltet. Durch die Planung und Umsetzung von barrierefreien Zugängen und Einrichtungen bietet der Campus eine inklusive Umgebung, die allen Studenten gleichermaßen zugänglich ist.</p>
+            <p><strong>Unsere Öffnungszeiten:</strong></p>
+            <ul>
+                <li>Montag bis Freitag: 6:30 Uhr bis 19:00 Uhr</li>
+                <li>Samstag: 7:30 Uhr bis 16:00 Uhr (Gebäude E geschlossen)</li>
+            </ul>
+            <p>Keine Möglichkeit uns Vorort zu besuchen? Kein Problem! Erkunde den Campus gemütlich von Daheim aus! <a href="http://www.pano.web-3d.info/tourHTWCampusRotenbuehl/htwCampusRotenbuehl-V01.php">Zum virtuellen Rundgang!</a></p>
+        </section>
+        <section id="mensaar">
+            <h2>MenSaar</h2>
+            <p>Um stets konzentriert arbeiten zu können, braucht man nicht nur Studentenfutter! Die Mensaar bietet von Montag bis Freitag die Möglichkeit, sich ausgewogen zu ernähren! Hier findet jeder das passende Menü zu fairen Preisen!</p>
+            <p><strong>Die Öffnungszeiten der MenSaar:</strong></p>
+            <ul>
+                <li>Warme Mahlzeiten: Montag bis Freitag: 11:00 Uhr bis 14:30 Uhr</li>
+                <li>Snacks, Heiß- und Kaltgetränke: Montag bis Freitag: 7:45 Uhr bis 15:30 Uhr</li>
+            </ul>
+            <p><a href="https://mensaar.de/#/menu/htwcrb">Zum Speiseplan</a></p>
+        </section>
+    </div>
+
+
+    <footer>
+        <p><strong>DISCLAIMER</strong><br>
+        Diese Website ist eine fiktive Projektarbeit im Kontext einer Lehrveranstaltung der HTW-Saar.</p>
+        <p>Alle Inhalte und Rechte dieser Website obliegen der HTW-Saar.</p>
+        <p><strong>Impressum (Laut §5 TMG):</strong><br>
+        Hochschule für Technik und Wirtschaft des Saarlandes<br>
+        Goebenstraße 40, 66117 Saarbrücken</p>
+        <p>Telefon: (0681) XX XX - X<br>
+        Telefax: (0681) XX XX - XXX<br>
+        E-Mail: info@xxx-xxxx.xx</p>
+        <p>Körperschaft des öffentlichen Rechts<br>
+        Vertreten durch XYZ</p>
+    </footer>
+</body>
+</html>
+
+</footer>
+</html>
